@@ -2,7 +2,7 @@
 Qi Liu, ql375@nyu.edu
 
 ## Description
-Sometimes we may find it difficult to watch a film in the right language substitle.
+Sometimes we may find it difficult to watch a film in the right substitle language.
 This tool is helpful to you in this case!
 Substitles will be played in you terminal.
 
